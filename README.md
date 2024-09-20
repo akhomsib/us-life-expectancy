@@ -25,6 +25,8 @@ Please follow the setup intructions below.
 4. Once this is running, connect to [localhost:8000](localhost:8000) in a browser and navigate to the `life_expectancy_viz.html` file in the code folder
    which will provide access to the webpage and allow you to interact with the visualizations.
 
+To view the individual Tableau reports and dashboards, you can go to [Akhona Msibi's Tableau Public Profile](https://public.tableau.com/app/profile/akhona.msibi/vizzes) where these are publicly available.
+
 ## Technologies Used
 Microsoft Office Excel, Python, and Tableau Data Prep were used to prepare the source data for this analysis. <br />
 Tableau visualization software was used to create the various reports and dashboards.
